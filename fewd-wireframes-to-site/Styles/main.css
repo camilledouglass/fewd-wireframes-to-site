@@ -1,0 +1,36 @@
+h1 {
+	font-family: 'Lobster', cursive;
+	font-size: 36px;
+}
+
+h4 {
+	font-family: 'Lobster', cursive;
+	font-size: 28px;
+	border: 5px solid black;
+	border-radius: 50px;
+}
+
+.floating-box {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+    vertical-align: top;
+}
+
+body {
+	background: red;
+	padding: 20px;
+	border: 20px;
+	margin:20px;
+	text-align: center;
+}
+
+section {
+	padding: 20px;
+	border: 20px;
+	margin: 20px;
+}
+
+
+
